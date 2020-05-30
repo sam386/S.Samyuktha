@@ -6,17 +6,17 @@
 
 # ***Education:***
 
-  -  **B.Tech.**
+  -  **B.Tech.** <br />
     Visvodaya institute of technology and science<br />
     CSE <br/>
     Percentage : **85%** <br />
     2017 - Present
- - **Intermediate**
+ - **Intermediate** <br />
      Narayana Junior College<br />
      MPC  <br />
      Percentage : **97.7%** 
      2017
- -  **SSC**
+ -  **SSC** <br />
       Narayana Concepts School <br />
       GPA : **9.0**<br />
       2015
