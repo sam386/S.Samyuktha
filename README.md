@@ -1,4 +1,4 @@
-# Sannapureddy Samyuktha
+# **Sannapureddy Samyuktha**
 *Email* : samyuktha457@gmail.com
 
 # ***Career Objective***
