@@ -14,7 +14,7 @@
  - **Intermediate** <br />
      Narayana Junior College<br />
      MPC  <br />
-     Percentage : **97.7%** 
+     Percentage : **97.7%** <br />
      2017
  -  **SSC** <br />
       Narayana Concepts School <br />
